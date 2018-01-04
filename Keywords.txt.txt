@@ -1,0 +1,7 @@
+RS485	KEYWORD1
+init	KEYWORD2
+Transmit	KEYWORD2
+Receive	KEYWORD2
+clear_msg	KEYWORD2
+check_ack	KEYWORD2
+send_ack	KEYWORD2
